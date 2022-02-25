@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @HackerMan0611
-- 👀 I’m interested in it's none of your business...
-- 🌱 I’m currently learning Html/css/Jv
-- 💞️ I’m looking to collaborate on nothing.
-- 📫 How to reach me, go and see elsewhere if I'm there !
+Bonjour
+Genshin c'est bien
+Au revoir
