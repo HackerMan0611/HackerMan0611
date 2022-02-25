@@ -1,3 +1,3 @@
-Bonjour
-Genshin c'est bien
+Bonjour,
+Genshin c'est bien,
 Au revoir
