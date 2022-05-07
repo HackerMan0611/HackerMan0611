@@ -1,3 +1,3 @@
 Bonjour,
-Genshin c'est bien,
+Osu c'est bien,
 Au revoir
